@@ -4,11 +4,11 @@
     "command": "move_cursor_top"
   },
   {
-    "caption": "Move Cursor Top",
+    "caption": "Move Cursor Bottom",
     "command": "move_cursor_bottom"
   },
   {
-    "caption": "Move Cursor Top",
+    "caption": "Move Cursor Middle",
     "command": "move_cursor_middle"
   }
 ]
