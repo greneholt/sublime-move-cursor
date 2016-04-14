@@ -1,0 +1,14 @@
+[
+  {
+    "caption": "Move Cursor Top",
+    "command": "move_cursor_top"
+  },
+  {
+    "caption": "Move Cursor Top",
+    "command": "move_cursor_bottom"
+  },
+  {
+    "caption": "Move Cursor Top",
+    "command": "move_cursor_middle"
+  }
+]

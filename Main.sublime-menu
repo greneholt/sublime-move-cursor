@@ -1,0 +1,17 @@
+[
+  {
+    "id": "goto",
+    "children":
+    [
+      {
+        "command": "move_cursor_top"
+      },
+      {
+        "command": "move_cursor_bottom"
+      },
+      {
+        "command": "move_cursor_middle"
+      },
+    ]
+  }
+]

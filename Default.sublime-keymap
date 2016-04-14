@@ -1,0 +1,5 @@
+[
+    { "keys": ["ctrl+u"], "command": "move_cursor_top" },
+    { "keys": ["ctrl+o"], "command": "move_cursor_bottom"},
+    { "keys": ["ctrl+i"], "command": "move_cursor_middle"},
+]
